@@ -1,0 +1,18 @@
+ .banner {
+  background-image: url('mmarmiton/images/cuisiner.png') ;
+  background-size: cover ;
+  background-position: center ;
+   }
+
+.banner h1 {
+font-size: 50px;
+}
+
+.banner h2 {
+font-size: 30px;
+font-weight: lighter;
+opacity: 0.8 ;
+margin-bottom:30px;
+}
+
+
